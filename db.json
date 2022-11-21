@@ -1,3 +1,44 @@
 {
-    "creations": []
+  "creations": [
+    {
+      "name": "Mike Wazowski",
+      "status": "Alive",
+      "type": "Monster",
+      "gender": "Male",
+      "origin": "",
+      "location": "",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/ct_videoportal_pixar_mikewazoski_ddt-16832_a98c6c65.jpeg?region=0,0,600,600",
+      "id": 2
+    },
+    {
+      "name": "Roz",
+      "status": "Alive",
+      "type": "Monster",
+      "gender": "Female",
+      "origin": "",
+      "location": "",
+      "image": "https://i.pinimg.com/originals/46/b1/c8/46b1c8c9b04d589d505b65569b1ecdfd.jpg",
+      "id": 3
+    },
+    {
+      "name": "Randall",
+      "status": "Alive",
+      "type": "Monster",
+      "gender": "Male",
+      "origin": "",
+      "location": "",
+      "image": "https://i.pinimg.com/736x/d2/54/62/d25462358d9e8e549b0ce1b0cf7cea75.jpg",
+      "id": 4
+    },
+    {
+      "name": "James P. Sullivan (Sulley)",
+      "status": "Alive",
+      "type": "Monster",
+      "gender": "Male",
+      "origin": "",
+      "location": "",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/ef91b3eba7549321e53d2c6a18b752a9cf5d2637.jpeg?region=0,0,450,450",
+      "id": 5
+    }
+  ]
 }
