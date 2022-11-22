@@ -1,4 +1,12 @@
 {
+  "users": [
+    {
+      "username": "mimigagon",
+      "password": "Minsait2022!",
+      "repassword": "Minsait2022!",
+      "id": 1
+    }
+  ],
   "creations": [
     {
       "name": "Mike Wazowski",
